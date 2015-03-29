@@ -1,0 +1,27 @@
+
+h3{
+	background-color:white;
+	color: black;
+	font-family: "arial", sans-serif;	
+	font-size: 1.1em;	
+	text-align: left;	
+}
+
+body{
+	background-color:white;
+	color: black;
+	font-family: serif;
+	font-style: normal;
+	text-align: justify;
+	font-size: 1.2em;		
+}
+
+p{
+	text-indent: 60px;
+	font-size: 1.2em;	
+}
+figure{
+	background-color: #F2EDED;
+	border: ipx solid #ccc;	
+	float: right;	
+}

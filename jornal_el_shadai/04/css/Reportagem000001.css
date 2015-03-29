@@ -1,0 +1,52 @@
+h1{
+	background-color:white;
+	color: red;		
+}
+
+h3{
+	background-color:white;
+	color: black;
+	font-family: "arial", sans-serif;		
+	text-align: left;	
+}
+
+body{
+	background-color:white;
+	color: black;
+	font-family: serif;
+	font-style: normal;
+	text-align: justify;
+	text-indent: 60px;	
+}
+li{
+	background-color:white;
+	color: black;
+	font-family: serif;
+	font-style: normal;
+	text-align: justify;
+	font-size: 1.2em;	
+}
+ul{
+	text-align: justify;
+	font-size: 1.1em;	
+}
+h5{		
+	/*background-color: yellow;
+	border-color: black;
+	border-style: solid;*/
+	text-indent: 60px;
+}
+p{
+	text-align: justify;
+	text-indent: 60px;
+	font-size: 1.2em;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+figure{
+	background-color: white;
+	border: ipx solid #ccc;
+	text-align: center;
+	float: right;
+	font-size: 1.2em;		
+}
